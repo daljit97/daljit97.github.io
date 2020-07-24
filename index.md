@@ -1,4 +1,5 @@
 ## Notizie+ per Android
+![Icon](unnamed.png)
 
 Notizie+ è un'applicazione gratis che ti permette di leggere notizie provenienti dai più importanti siti di informazione e quotidiani italiani sul tuo smartphone Android. Dalla cronaca allo sport, dalla politica all'economia, con Notizie + puoi scegliere tra ben 100+ fonti accuratamente scelte e personalizzare la tua home con i siti che tu desideri. Quest'applicazione ti offre un'interfaccia pulita, veloce e senza fronzoli per permetterti di leggere le tue notizie preferite immediatamente.
 
