@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Notizie+ per Android
 
-You can use the [editor on GitHub](https://github.com/daljit97/notiziewebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Notizie+ è un'applicazione gratis che ti permette di leggere notizie provenienti dai più importanti siti di informazione e quotidiani italiani sul tuo smartphone Android. Dalla cronaca allo sport, dalla politica all'economia, con Notizie + puoi scegliere tra ben 100+ fonti accuratamente scelte e personalizzare la tua home con i siti che tu desideri. Quest'applicazione ti offre un'interfaccia pulita, veloce e senza fronzoli per permetterti di leggere le tue notizie preferite immediatamente.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Caratteristiche principali
 
-### Markdown
+- 75+ tra i migliori feed di siti di notizie e giornali italiani gratis raggiungibili dalla home
+- Possibilità di condividere e di salvare le notizie
+- Possibilità di aprire le notizie in un browser interno
+- leggi le notizie complete senza dover passare dal browser
+- Possibilità di personalizzare la home con tile colorate per ciascuna fonte di notizie
+- Molto altro
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daljit97/notiziewebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Importante
+L'elenco delle fonti di notizie completo è qui sotto. Se vuoi richiedere l'aggiunta di una fonte, contattaci su Twitter @notizieplus o mandaci un'email a notizieplus@gmail.com.
+Questa applicazione utilizza i feed RSS pubblicamente disponibili delle fonti elencate qui sotto, tutti i diritti sulle notizie pubblicate appartengono ai giornali che le pubblicano. Se una testata giornalistica volesse rimuovere la propria fonte dall'applicazione, basta scrivere un'email al seguente indirizzo notizieplus@gmail.com per effettuare la richiesta.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Per qualsiasi informazione o domande riguardante Notizie+, [mandaci un'email](mailto:notizieplus@gmail.com) e saremo di aiutarvi e rispondere alle vostre richieste
